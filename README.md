@@ -13,8 +13,8 @@ I have a deep understanding of HTML, CSS, and JavaScript, as well as a strong fo
 
 I'm always looking to improve my craft and stay up-to-date with the latest trends and technologies in web development. I love collaborating with other developers and designers, and I believe that the best solutions come from working together as a team. In addition to my technical skills, I'm a problem-solver with excellent communication skills.
 
-🌍 I'm based in Egypt- 🔍 I have 2 live apps: 
-🌱 I’m currently learning Node js , Framer motion
+🌍 I'm based in Egypt- 🔍 I have 2 live apps: <br />
+🌱 I’m currently learning Node js , Framer motion<br />
 📫 You can contact me at <a href="mohamedmubarak142000m@gmail.com">mohamedmubarak142000</a>
 📄 Know about my experiences - https://drive.google.com/file/d/1PufP9HEAe8sz7G1hClSC4fg44vwJzmPo/view?usp=sharing
 - 💬 Ask me about **ReactJs and Frontend**
