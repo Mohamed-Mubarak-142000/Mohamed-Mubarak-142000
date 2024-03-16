@@ -12,12 +12,10 @@ Hi there! I'm Mohamed, a front-end developer with expertise in React.js, TypeScr
 I have a deep understanding of HTML, CSS, and JavaScript, as well as a strong foundation in React.js and Next.js. I've developed the skills necessary to take on any challenge.
 
 I'm always looking to improve my craft and stay up-to-date with the latest trends and technologies in web development. I love collaborating with other developers and designers, and I believe that the best solutions come from working together as a team. In addition to my technical skills, I'm a problem-solver with excellent communication skills.
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
+
+🌍 I'm based in Egypt- 🔍 I have 2 live apps: 
+🌱 I’m currently learning Node js , Framer motion
+📫 You can contact me at <a href="mohamedmubarak142000m@gmail.com">mohamedmubarak142000</a>
+📄 Know about my experiences - https://drive.google.com/file/d/1PufP9HEAe8sz7G1hClSC4fg44vwJzmPo/view?usp=sharing
 - 💬 Ask me about **ReactJs and Frontend**
 
-
-
-⭐ From [mohamedabusrea](https://github.com/mohamedabusrea)
