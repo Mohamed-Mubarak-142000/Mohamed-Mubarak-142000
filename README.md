@@ -14,8 +14,30 @@ I have a deep understanding of HTML, CSS, and JavaScript, as well as a strong fo
 I'm always looking to improve my craft and stay up-to-date with the latest trends and technologies in web development. I love collaborating with other developers and designers, and I believe that the best solutions come from working together as a team. In addition to my technical skills, I'm a problem-solver with excellent communication skills.
 
 🌍 I'm based in Egypt- 🔍 I have 2 live apps: <br /><br />
-🌱 I’m currently learning Node js , Framer motion<br /><br />
+🌱 I’m currently learning Node js, Framer motion<br /><br />
 📫 You can contact me at <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">mohamedmubarak142000</a><br /><br />
 📄 Know about my experiences - https://drive.google.com/file/d/1PufP9HEAe8sz7G1hClSC4fg44vwJzmPo/view?usp=sharing<br /><br />
 - 💬 Ask me about **ReactJs and Frontend** <br /><br />
+Languages and Tools:
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/0baa77a4-6614-467e-aa0c-bff297e378a6)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/ef753f76-1ad0-4312-873d-971a9d8180ab)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/e5069585-ea1f-4a3e-a2c6-c39d61740f72)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/cafe8f9c-64b3-4867-bef6-1a66de3ecd19)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/9717dc3a-76ee-47d8-a58b-7432a0be26e3)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/fc913f5f-caa7-44ef-9e4c-1a3ba8bcc5b3)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/143c71db-21a3-4493-a02b-655600b9aa58)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/458607ce-d0e2-4de1-8a60-0c4436bef240)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/9733e737-b8d4-47af-8442-4c6104d9508a)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/e8732253-18b5-43cf-bae8-4244c76c65b5)
+
+![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/0d6fb4fd-6e71-4c21-adbb-2b7b42891534)
 
