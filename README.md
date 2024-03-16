@@ -19,6 +19,9 @@ I'm always looking to improve my craft and stay up-to-date with the latest trend
 📄 Know about my experiences - https://drive.google.com/file/d/1PufP9HEAe8sz7G1hClSC4fg44vwJzmPo/view?usp=sharing<br /><br />
 - 💬 Ask me about **ReactJs and Frontend** <br /><br />
 Languages and Tools:
+
+<div className:"flex gap-2">
+    
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/0baa77a4-6614-467e-aa0c-bff297e378a6)
 
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/ef753f76-1ad0-4312-873d-971a9d8180ab)
@@ -40,4 +43,5 @@ Languages and Tools:
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/e8732253-18b5-43cf-bae8-4244c76c65b5)
 
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/0d6fb4fd-6e71-4c21-adbb-2b7b42891534)
+</div>
 
