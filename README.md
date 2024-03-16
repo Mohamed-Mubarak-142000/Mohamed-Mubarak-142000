@@ -18,10 +18,7 @@ I'm always looking to improve my craft and stay up-to-date with the latest trend
 📫 You can contact me at <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">mohamedmubarak142000</a><br /><br />
 📄 Know about my experiences - https://drive.google.com/file/d/1PufP9HEAe8sz7G1hClSC4fg44vwJzmPo/view?usp=sharing<br /><br />
 - 💬 Ask me about **ReactJs and Frontend** <br /><br />
-Languages and Tools:
-
-<div className: "flex flex-row gap-2">
-    
+Languages and Tools:    
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/d5a00264-964e-4341-b282-2012c3c325f2)    
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/ef753f76-1ad0-4312-873d-971a9d8180ab)
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/e5069585-ea1f-4a3e-a2c6-c39d61740f72)
@@ -33,5 +30,4 @@ Languages and Tools:
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/9733e737-b8d4-47af-8442-4c6104d9508a)
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/e8732253-18b5-43cf-bae8-4244c76c65b5)
 ![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/0d6fb4fd-6e71-4c21-adbb-2b7b42891534)
-</div>
 
