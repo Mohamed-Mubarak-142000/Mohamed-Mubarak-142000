@@ -11,6 +11,8 @@ Hi there! I'm Mohamed, a front-end developer with expertise in React.js, TypeScr
 
 I have a deep understanding of HTML, CSS, and JavaScript, as well as a strong foundation in React.js and Next.js. I've developed the skills necessary to take on any challenge.
 
+I'm a frontend developer and I am a graduate of computers and information from Menoufia University, I'm skilled in HTML CSS3 bootstrap reactjs redux toolkit tailwind CSS react-bootstrap styled components typescript, and I have knowledge to express MongoDB node js I have the ability create restfull api.
+
 I'm always looking to improve my craft and stay up-to-date with the latest trends and technologies in web development. I love collaborating with other developers and designers, and I believe that the best solutions come from working together as a team. In addition to my technical skills, I'm a problem-solver with excellent communication skills.
 
 🌍 I'm based in Egypt- 🔍 I have 2 live apps: <br /><br />
