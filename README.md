@@ -17,11 +17,11 @@
 ## ⭐ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap,materialui,nodejs,express,mongodb,styledcomponents,socketio,reactnative" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap,materialui,nodejs,express,mongodb,styledcomponents,socketio,reactnative,reactquery,reacthookform" alt="skills" />
 </p>
 
 <ul>
-  <li><b>Front-end:</b> React.js, Redux Toolkit, Zustand, Tailwind CSS, Bootstrap, React-Bootstrap, Styled Components, Material UI, Mantine UI, Shadcn, HTML5, CSS3, JavaScript, TypeScript, React Native</li>
+  <li><b>Front-end:</b> React.js, Redux Toolkit, Zustand, Tailwind CSS, Bootstrap, React-Bootstrap, Styled Components, Material UI, Mantine UI, Shadcn, HTML5, CSS3, JavaScript, TypeScript, React Native, <b>React Query</b>, <b>React Hook Form</b>, <b>Zod Validation</b></li>
   <li><b>Back-end:</b> Node.js, Express.js, MongoDB, RESTful APIs, Socket.io</li>
   <li><b>Other:</b> System Architecture, UI/UX, Git & GitHub, Agile</li>
 </ul>
