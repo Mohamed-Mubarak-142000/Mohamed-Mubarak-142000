@@ -1,37 +1,76 @@
-<h1 align="center">Hi 👋 I'm Mohamed Mubarak </h1><h2 align="center" >Front-End Developer 💻 (React js)</h2>
+<h1 align="center">👋 Mohamed Mubarak</h1>
 <p align="center">
-    <a href="https://twitter.com/mohamedmubrk_14"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamed-mubarak-142317215/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamedmubarak1_4_2000/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  </p>
-  
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00C6FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=40&fontSize=38&fontColor=ffffff" alt="header"/>
+</p>
 
-Hi there! I'm Mohamed, a front-end developer with expertise in React.js, TypeScript, and Nextjs
+---
 
-I have a deep understanding of HTML, CSS, and JavaScript, as well as a strong foundation in React.js and Next.js. I've developed the skills necessary to take on any challenge.
+## 🧑‍💻 About Me
 
-I am a graduate of computers and information from Menoufia University, I'm skilled in HTML CSS3 bootstrap reactjs redux toolkit tailwind CSS react-bootstrap styled components typescript, and I have knowledge to express MongoDB node js I have the ability create restfull api.
+- 🏫 Graduate of Faculty of Computers & Information – Menoufia University  
+- 💻 Full Stack Web Developer passionate about high-performance systems
+- 🏢 Completed work on "Ana Coins" customer systems, currently working on updates and enhancements for a new project called **donation**
+- 🚀 Always excited to deliver integrated technical solutions that make life easier for users
 
-I'm always looking to improve my craft and stay up-to-date with the latest trends and technologies in web development. I love collaborating with other developers and designers, and I believe that the best solutions come from working together as a team. In addition to my technical skills, I'm a problem-solver with excellent communication skills.
+---
 
-🌍 I'm based in Egypt- 🔍 I have 2 live apps: <br /><br />
-🌱 I’m currently learning Node js, Framer motion<br /><br />
-📫 You can contact me at <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">mohamedmubarak142000</a><br /><br />
-📄 Know about my experiences -https://drive.google.com/file/d/1nVRJUfNuSaUc_oRKuLlqhJ9YTKj0K057/view?usp=sharing<br /><br />
-💬 Ask me about **ReactJs and Frontend** <br /><br />
+## ⭐ Technical Skills
 
-Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,bootstrap,materialui,nodejs,express,mongodb,styledcomponents,socketio,reactnative" alt="skills" />
+</p>
 
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/d5a00264-964e-4341-b282-2012c3c325f2)    
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/ef753f76-1ad0-4312-873d-971a9d8180ab)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/e5069585-ea1f-4a3e-a2c6-c39d61740f72)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/cafe8f9c-64b3-4867-bef6-1a66de3ecd19)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/9717dc3a-76ee-47d8-a58b-7432a0be26e3)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/fc913f5f-caa7-44ef-9e4c-1a3ba8bcc5b3)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/143c71db-21a3-4493-a02b-655600b9aa58)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/15a3c26f-c442-4c9c-8c0c-456bd0b742fe)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/9733e737-b8d4-47af-8442-4c6104d9508a)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/c26e80b1-d456-4b31-9658-f99289eb09fa)
-![image](https://github.com/Mohamed-Mubarak-142000/Mohamed-Mubarak-142000/assets/156623820/0d6fb4fd-6e71-4c21-adbb-2b7b42891534)
+<ul>
+  <li><b>Front-end:</b> React.js, Redux Toolkit, Zustand, Tailwind CSS, Bootstrap, React-Bootstrap, Styled Components, Material UI, Mantine UI, Shadcn, HTML5, CSS3, JavaScript, TypeScript, React Native</li>
+  <li><b>Back-end:</b> Node.js, Express.js, MongoDB, RESTful APIs, Socket.io</li>
+  <li><b>Other:</b> System Architecture, UI/UX, Git & GitHub, Agile</li>
+</ul>
 
+---
+
+## 🚀 Featured Projects
+
+- 🪙 <b>Ana Coins Customer Portal</b>  
+  Successfully developed the customer interface and API integration for the Ana Coins platform  
+  🔗 [Project Link](https://donationhub-test.com:9900/)
+
+- 💡 <b>donation</b>  
+  Currently working on enhancements and new features for the donation project (details coming soon...)
+
+---
+
+## 🏆 Certificates & Achievements
+
+- React & TypeScript certificate from Hassoub Academy
+- ITI "Front-End Track" Training (120 hours) – 2019
+- ITI MEARN Stack Diploma (6 months) – 2023
+- Built and integrated high-quality customer interfaces for large-scale platforms
+- Improved performance using modern technologies like React and Tailwind CSS
+- Designed and managed secure, comprehensive RESTful APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mubarak-142000&show_icons=true&theme=gradient&hide_title=false&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Mohamed-Mubarak-142000&theme=algolia" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mubarak-142000&layout=compact&theme=gradient&langs_count=10" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-mubarak-142317215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/mohamed.mubarak.662929" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mubarak142000/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0080FF&height=90&section=footer"/>
+  <b>Thank you for visiting! If you’re looking for a creative and dedicated tech partner, let’s connect 🚀</b>
+</div>
