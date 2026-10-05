@@ -1,142 +1,151 @@
-<h1 align="center">👋 Mohamed Mubarak</h1>
+<h1 align="center">🚀 Mohamed Mubarak</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> | <strong>@Techflow</strong>
+  <strong>Full Stack Developer</strong> at <strong>Techflow</strong>
+  <br/>
+  <em>Building scalable web & mobile solutions with modern technologies</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00C6FF&height=180&section=header&text=Full%20Stack%20Developer&fontAlign=40&fontSize=38&fontColor=ffffff" alt="header banner" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header&text=Full%20Stack%20Engineer&fontAlign=40&fontSize=35&fontColor=ffffff" alt="header" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 من أنا | About Me
 
-- 🎓 Graduate of the Faculty of Computers and Information, Menoufia University
-- 💼 **Full Stack Developer at @Techflow** – Building scalable web applications and backend systems
-- 🚀 Specialized in end-to-end development: frontend architecture, API design, database management, and mobile development
-- 🏢 Previously worked on customer-facing systems like **Ana Coins** and currently contributing to the **donation** platform
-- 📈 Passionate about clean code, design patterns, performance optimization, and delivering robust technical solutions
+```
+💼 Full Stack Developer @ Techflow
+📍 Menoufia University, Egypt
+🎯 Building enterprise-grade applications
+🚀 Passionate about scalable architecture & clean code
+```
 
----
-
-## 🛠️ Tech Stack & Expertise
-
-### Frontend
-- **React.js** – Component architecture, state management, hooks, performance optimization
-- **Next.js** – SSR/SSG, API routes, routing, server components
-- **TypeScript** – Strong type safety and scalable applications
-- **React Native** – Cross-platform mobile development (iOS/Android)
-- **Styling** – Tailwind CSS, Bootstrap, Material UI, Mantine UI, Shadcn UI, Styled Components
-- **State Management** – Redux Toolkit, Zustand, React Query
-- **Form Management** – React Hook Form, Formik
-- **Responsive Design** – Mobile-first approach, accessibility
-
-### Backend
-- **Node.js** – Server-side runtime and event-driven architecture
-- **Express.js** – Lightweight HTTP server and middleware
-- **NestJS** – Enterprise-grade backend framework with design patterns and dependency injection
-- **RESTful APIs** – Scalable API design and documentation
-- **Databases** – MongoDB (Mongoose), PostgreSQL (Prisma)
-- **Authentication** – JWT, OAuth, session management
-- **Real-time Communication** – Socket.io
-- **Caching & Performance** – Redis optimization
-- **Design Patterns** – MVC, SOLID principles, repository pattern, factory pattern, dependency injection
-
-### Tools & Workflow
-- **Version Control** – Git & GitHub, branching strategies
-- **Containerization** – Docker
-- **Deployment** – Vercel, Netlify, Render, AWS
-- **API Testing** – Postman, Insomnia
-- **Package Managers** – npm, Yarn, pnpm
-- **UI/Design** – Figma, UI/UX collaboration
-- **Development** – Agile, Scrum, collaborative workflows
-
-### Architecture & Best Practices
-- System Design & Scalability
-- Clean Code & Code Reviews
-- Performance Optimization (frontend & backend)
-- Security Best Practices
-- Database Optimization
-- API Rate Limiting & Caching
-- Error Handling & Logging
+**الخبرة | Experience:**
+- Full Stack Web Development (Frontend + Backend)
+- Mobile Development with React Native
+- System Architecture & Design Patterns
+- Enterprise API Design & Integration
+- Performance Optimization & Best Practices
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ التقنيات | Tech Stack
 
-- 🪙 **Ana Coins Customer Portal**  
-  Full stack development of customer-facing interface, API integration, and system workflows. Focused on performance, reliability, and user experience.  
-  🔗 [Project Link](https://donationhub-test.com:9900/)
+### Frontend | الواجهات
+```
+React.js  |  Next.js  |  TypeScript  |  Tailwind CSS
+React Native  |  Material UI  |  Redux  |  React Query
+```
 
-- 💡 **Donation Platform**  
-  Building and enhancing features for a donation management system, including user dashboards, payment integration, and administrative tools.
+### Backend | الخوادم
+```
+Node.js  |  Express.js  |  NestJS  |  Design Patterns
+RESTful APIs  |  JWT Auth  |  Socket.io
+```
 
-- 🧩 **Custom Web & Mobile Solutions**  
-  Developed multiple end-to-end applications: dashboards, real-time features, authentication flows, complex forms, and integrated APIs for enterprise clients.
+### Databases | قواعد البيانات
+```
+MongoDB + Mongoose  |  PostgreSQL + Prisma
+Redis  |  Database Optimization
+```
+
+### DevOps & Tools | الأدوات
+```
+Docker  |  Git & GitHub  |  Vercel  |  Render
+Postman  |  AWS  |  Figma  |  Linux/CLI
+```
 
 ---
 
-## 🏆 Certificates & Achievements
+## 💡 المميزات | Key Strengths
 
-- **React & TypeScript Certificate** – Hassoub Academy
-- **ITI Front-End Track** – 120 Hours (2019)
-- **ITI MEARN Stack Diploma** – 6 Months (2023)
-- **Full Stack Development** – End-to-end expertise from database to UI
-- Built and maintained high-performance systems for thousands of users
-- Designed secure, scalable RESTful APIs and microservices
-- Improved application performance using modern technologies and optimization techniques
-- Mentored junior developers on best practices and design patterns
+| | |
+|---|---|
+| 🏗️ **System Architecture** | Scalable, maintainable, and efficient systems |
+| 🔐 **Security First** | Authentication, authorization, best practices |
+| ⚡ **Performance** | Optimization at every layer (frontend & backend) |
+| 📱 **Cross-Platform** | Web + Mobile with shared code patterns |
+| 🎨 **UI/UX Focus** | User-centered design & responsive interfaces |
+| 🧪 **Code Quality** | Clean code, design patterns, SOLID principles |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 المشاريع | Featured Projects
+
+### 🪙 Ana Coins Customer Portal
+**Full Stack Development** | React.js + Node.js + MongoDB
+- بناء منصة عملاء متكاملة لمنصة تحويل العملات
+- تطوير واجهات مستخدم عالية الأداء
+- تكامل API آمن وموثوق
+
+🔗 [Live Demo](https://donationhub-test.com:9900/)
+
+### 💰 Donation Platform
+**Backend & Frontend Development** | Next.js + NestJS + PostgreSQL
+- بناء منصة تبرعات متقدمة مع لوحة تحكم
+- تطوير APIs قابلة للتوسع
+- تحسين الأداء والأمان
+
+### 🧩 Enterprise Solutions
+**Custom Full Stack Applications**
+- Dashboards متقدمة
+- Real-time Features مع Socket.io
+- Complex Forms & Workflows
+- Mobile Apps بـ React Native
+
+---
+
+## 🏆 الشهادات والإنجازات | Certificates & Achievements
+
+✅ **React & TypeScript** – Hassoub Academy  
+✅ **ITI Front-End Track** – 120 Hours (2019)  
+✅ **ITI MEARN Stack Diploma** – 6 Months (2023)  
+✅ **Full Stack Expertise** – Real-world enterprise projects  
+✅ **Architecture Design** – Scalable systems for thousands of users  
+✅ **API Design & Security** – Production-grade backends  
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mubarak-142000&show_icons=true&theme=gradient&hide_title=false&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Mohamed-Mubarak-142000&theme=algolia" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mubarak-142000&layout=compact&theme=gradient&langs_count=10" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mubarak-142000&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&disable_animations=false" height="170" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mubarak-142000&layout=compact&theme=tokyonight&langs_count=8" height="170" alt="Top Languages" />
 </p>
 
 ---
 
-## 💬 Let's Work Together
-
-I'm always interested in:
-- Challenging full stack projects
-- Scalable system architecture
-- Mentoring and knowledge sharing
-- Open source contributions
-- Innovative tech solutions
-
----
-
-## 🌐 Connect With Me
+## 💬 Let's Connect | تواصل معي
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mubarak-142317215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/mohamed.mubarak.662929" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/mubarak142000/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-mubarak-142317215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mohamed.mubarak.662929" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/mubarak142000/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:contact@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0080FF&height=90&section=footer" alt="footer" />
-  <br />
-  <b>💻 Building scalable solutions | 🚀 Full Stack Excellence | 🎯 Techflow Team Member</b>
-  <br />
-  <b>Let's create something amazing together! 🌟</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" alt="footer" />
+  
+  <p>
+    <strong>🚀 Building the future, one line of code at a time</strong>
+    <br/>
+    <em>Open to exciting projects & collaborations</em>
+  </p>
+  
+  ⭐ If you find my work valuable, consider giving it a star!
 </div>
