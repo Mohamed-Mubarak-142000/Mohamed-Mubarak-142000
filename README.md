@@ -1,19 +1,22 @@
 <h1 align="center">👋 Mohamed Mubarak</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00C6FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=40&fontSize=38&fontColor=ffffff" alt="header banner" />
+  <strong>Full Stack Developer</strong> | <strong>@Techflow</strong>
 </p>
 
 <p align="center">
-  <strong>Full Stack Web Developer</strong> passionate about building scalable, user-friendly, and high-performance digital experiences.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080FF,100:00C6FF&height=180&section=header&text=Full%20Stack%20Developer&fontAlign=40&fontSize=38&fontColor=ffffff" alt="header banner" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ---
@@ -21,92 +24,80 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Graduate of the Faculty of Computers and Information, Menoufia University
-- 💻 Full Stack Web Developer focused on building modern web applications and business solutions
-- 🚀 Experienced in frontend and backend development, UI/UX, API integration, and performance optimization
-- 🏢 Worked on customer systems such as <b>Ana Coins</b> and currently contributing to enhancements for the <b>donation</b> project
-- 📈 Always eager to learn new technologies and deliver clean, efficient, and scalable solutions
+- 💼 **Full Stack Developer at @Techflow** – Building scalable web applications and backend systems
+- 🚀 Specialized in end-to-end development: frontend architecture, API design, database management, and mobile development
+- 🏢 Previously worked on customer-facing systems like **Ana Coins** and currently contributing to the **donation** platform
+- 📈 Passionate about clean code, design patterns, performance optimization, and delivering robust technical solutions
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Expertise
 
 ### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- React Bootstrap
-- Material UI
-- Mantine UI
-- Shadcn UI
-- Styled Components
-- Redux Toolkit
-- Zustand
-- React Query
-- React Hook Form
-- Formik
-- Responsive Design
+- **React.js** – Component architecture, state management, hooks, performance optimization
+- **Next.js** – SSR/SSG, API routes, routing, server components
+- **TypeScript** – Strong type safety and scalable applications
+- **React Native** – Cross-platform mobile development (iOS/Android)
+- **Styling** – Tailwind CSS, Bootstrap, Material UI, Mantine UI, Shadcn UI, Styled Components
+- **State Management** – Redux Toolkit, Zustand, React Query
+- **Form Management** – React Hook Form, Formik
+- **Responsive Design** – Mobile-first approach, accessibility
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-- Socket.io
-- MongoDB
-- Mongoose
-- PostgreSQL
-- Prisma
-- Redis
-- API Integration
+- **Node.js** – Server-side runtime and event-driven architecture
+- **Express.js** – Lightweight HTTP server and middleware
+- **NestJS** – Enterprise-grade backend framework with design patterns and dependency injection
+- **RESTful APIs** – Scalable API design and documentation
+- **Databases** – MongoDB (Mongoose), PostgreSQL (Prisma)
+- **Authentication** – JWT, OAuth, session management
+- **Real-time Communication** – Socket.io
+- **Caching & Performance** – Redis optimization
+- **Design Patterns** – MVC, SOLID principles, repository pattern, factory pattern, dependency injection
 
 ### Tools & Workflow
-- Git & GitHub
-- Docker
-- Postman
-- npm / Yarn
-- Vercel
-- Netlify
-- Render
-- Figma / UI Design Collaboration
-- Agile Development
+- **Version Control** – Git & GitHub, branching strategies
+- **Containerization** – Docker
+- **Deployment** – Vercel, Netlify, Render, AWS
+- **API Testing** – Postman, Insomnia
+- **Package Managers** – npm, Yarn, pnpm
+- **UI/Design** – Figma, UI/UX collaboration
+- **Development** – Agile, Scrum, collaborative workflows
 
-### Soft Skills
-- Problem Solving
-- System Architecture Thinking
-- UI/UX Improvement
-- Performance Optimization
-- Clean Code Practices
-- Team Collaboration
+### Architecture & Best Practices
+- System Design & Scalability
+- Clean Code & Code Reviews
+- Performance Optimization (frontend & backend)
+- Security Best Practices
+- Database Optimization
+- API Rate Limiting & Caching
+- Error Handling & Logging
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🪙 <b>Ana Coins Customer Portal</b>  
-  Built and improved customer-facing workflows and system integrations, focusing on usability, functionality, and stable API communication.  
+- 🪙 **Ana Coins Customer Portal**  
+  Full stack development of customer-facing interface, API integration, and system workflows. Focused on performance, reliability, and user experience.  
   🔗 [Project Link](https://donationhub-test.com:9900/)
 
-- 💡 <b>donation</b>  
-  Working on new features, enhancements, and improvements for a growing platform with a focus on scalability and better user experience.
+- 💡 **Donation Platform**  
+  Building and enhancing features for a donation management system, including user dashboards, payment integration, and administrative tools.
 
-- 🧩 <b>Custom Web Applications</b>  
-  Developed multiple frontend/backend solutions involving dashboards, forms, authentication flows, and integrated APIs.
+- 🧩 **Custom Web & Mobile Solutions**  
+  Developed multiple end-to-end applications: dashboards, real-time features, authentication flows, complex forms, and integrated APIs for enterprise clients.
 
 ---
 
 ## 🏆 Certificates & Achievements
 
-- React & TypeScript Certificate – Hassoub Academy
-- ITI Front-End Track Training (120 Hours) – 2019
-- ITI MEARN Stack Diploma (6 Months) – 2023
-- Built and integrated high-quality customer interfaces for large-scale platforms
-- Improved application performance using modern frontend technologies and optimized architecture
-- Designed and maintained RESTful APIs with secure and efficient data handling
+- **React & TypeScript Certificate** – Hassoub Academy
+- **ITI Front-End Track** – 120 Hours (2019)
+- **ITI MEARN Stack Diploma** – 6 Months (2023)
+- **Full Stack Development** – End-to-end expertise from database to UI
+- Built and maintained high-performance systems for thousands of users
+- Designed secure, scalable RESTful APIs and microservices
+- Improved application performance using modern technologies and optimization techniques
+- Mentored junior developers on best practices and design patterns
 
 ---
 
@@ -120,12 +111,24 @@
 
 ---
 
+## 💬 Let's Work Together
+
+I'm always interested in:
+- Challenging full stack projects
+- Scalable system architecture
+- Mentoring and knowledge sharing
+- Open source contributions
+- Innovative tech solutions
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-mubarak-142317215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/mohamed.mubarak.662929" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/mubarak142000/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -133,5 +136,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0080FF&height=90&section=footer" alt="footer" />
   <br />
-  <b>Thank you for visiting! If you're looking for a creative and dedicated tech partner, let's connect 🚀</b>
+  <b>💻 Building scalable solutions | 🚀 Full Stack Excellence | 🎯 Techflow Team Member</b>
+  <br />
+  <b>Let's create something amazing together! 🌟</b>
 </div>
